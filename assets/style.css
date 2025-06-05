@@ -1,11 +1,11 @@
 :root {
-    --text-color: #DBE4EF;
+    --text-color: #eff1f3;
     --card-front-color: #144480;
-    --card-back-color: #00F4BF;
+    --card-back-color: #7bff00;
 }
 
 body {
-    background: url('img/bg-desktop.webp');
+    background: url('img/ryan.jpg');
     font-family: Bai Jamjuree;
 }
 
